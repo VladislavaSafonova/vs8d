@@ -1,0 +1,5 @@
+URL_SERVICE = "https://2e43d481-513f-4118-b386-f298aaa1597c.serverhub.praktikum-services.ru"
+DOC_PATH = "/docs/"
+LOG_MAIN_PATH = "/var/www/backend/logs"
+CREATE_ORDER = "/api/v1/orders"
+GET_ORDER = "/api/v1/orders/track?t="
